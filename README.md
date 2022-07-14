@@ -10,7 +10,7 @@ by adding `vote` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:vote, "~> 0.1.0"}
+    {:vote, "~> 0.2.0"}
   ]
 end
 ```
